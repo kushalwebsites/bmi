@@ -77,3 +77,11 @@ button:hover {
   font-size: 1.1rem;
   color: #2e7d32;
 }
+
+#recommended {
+  width: auto;
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+  color: #333;
+}
